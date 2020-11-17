@@ -1,2 +1,2 @@
 #!/usr/bin
-print("hello my world")
+print("hello your world")
